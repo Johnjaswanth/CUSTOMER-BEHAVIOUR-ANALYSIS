@@ -1,0 +1,9 @@
+joblib
+pandas
+numpy
+random
+seaborn
+matplotlib
+datetime
+plotly
+sklearn
