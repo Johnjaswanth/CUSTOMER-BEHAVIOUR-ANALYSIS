@@ -1,7 +1,6 @@
 joblib
 pandas
 numpy
-random
 seaborn
 matplotlib
 datetime
